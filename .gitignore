@@ -14,3 +14,6 @@
 serving_dir
 .ipynb_checkpoints/
 !week_6_stream_processing/avro_example/data/rides.csv
+01-docker-terraform/1_terraform_gcp/keys/my-creds.json
+*.json
+01-docker-terraform/2_docker_sql/pgAdmin_data/*
