@@ -9,7 +9,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = "/home/src/mage-keys.json"
 bucket_name = 'mage-zoomcamp-marius'
 project_id = 'cogent-weaver-411816'
 
-table_name = 'nyc_taxi_data'
+table_name = 'green_taxi_data'
 root_path = f'{bucket_name}/{table_name}'
 
 @data_exporter
