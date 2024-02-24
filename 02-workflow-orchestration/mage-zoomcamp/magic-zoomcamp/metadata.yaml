@@ -55,3 +55,15 @@ project_uuid: cf694456579441d8b2ea41bc33612404
 help_improve_mage: false
 features:
   command_center: true
+  add_new_block_v2: true
+  code_block_v2: true
+  compute_management: true
+  custom_design: true
+  data_integration_in_batch_pipeline: true
+  dbt_v2: true
+  global_hooks: true
+  interactions: true
+  display_local_timezone: true
+  notebook_block_output_split_view: true
+  operation_history: true
+pipelines:
