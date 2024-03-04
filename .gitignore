@@ -17,7 +17,11 @@ serving_dir
 01-docker-terraform/1_terraform_gcp/keys/my-creds.json
 mage-keys.json
 01-docker-terraform/2_docker_sql/pgAdmin_data/*
-
+*.csv
+*.csv.gz
+*.parquet
+*.crc
+_SUCCESS
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
